@@ -1,0 +1,129 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(224,215,215);
+}
+.fnav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color:rgb(13,13,40);
+    color: white;
+    padding: 11px;
+    
+}
+.fnav img{
+    width: 12%;
+    height: 11%;
+}
+nav{
+    display: flex;
+
+}
+
+nav.loca{
+    display: flex;
+}
+.nav input{
+    width: 400px;
+    height: 32px;
+    border: none;
+}
+
+.nav img{
+    width: 4%;
+    height: 82%;
+}
+.nav{
+    display:flex;
+    justify-content: space-around;
+}
+nav.loca{
+    display: flex;
+}
+
+nav i{
+    font-size: 27px;
+}
+.nav p{
+    margin-top: 6px;
+}
+.snav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 8px;
+    background-color:rgb(64, 64, 97);
+    color:white;
+    
+}
+.snav p{
+    margin-top: 2px;
+}
+.snav p:hover{
+    border-bottom: 2px solid white;
+}
+.main img{
+    width: 1500px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+.img img{
+    width: 20%;
+    padding: 7px;
+    margin-top: 7px;
+}
+.deals{
+    margin-top: 33px;
+    width: 1500px;
+    height: 400px;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-left: 10px;
+}
+.deals h1{
+    margin-left: 22px;
+    margin-top: 33px;
+    padding: 22px;
+
+}
+.deals .img{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+.deals .imgs{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 33px;
+}
+.imgs img{
+    width: 14px;
+}
+.top{
+    display: flex;
+    justify-content:left;
+    background-color: rgb(19, 19, 49) ;
+    color: white;
+}
+.top img{
+    width: 250px;
+    margin-inline: 22px;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: #fff;
+    background-color: rgb(19, 19, 49);
+    padding: 54px;
+}
